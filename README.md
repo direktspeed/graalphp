@@ -1,6 +1,7 @@
-# SimpleLanguage
+# graalphp
+PHP Implamentation for GraalVM written with truffle framework
 
-A simple demonstration language built using Truffle for the GraalVM.
+https://github.com/php/php-langspec/tree/master/spec
 
 SimpleLanguage is heavily documented to explain the how and why of writing a
 Truffle language. A good way to find out more is to read the source with
